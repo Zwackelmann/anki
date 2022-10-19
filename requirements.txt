@@ -1,0 +1,4 @@
+requests
+JapaneseTokenizer
+pydub
+simpleaudio

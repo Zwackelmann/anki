@@ -1,0 +1,6 @@
+.idea/
+anki.iml
+data
+__pycache__
+*.pyc
+env/
